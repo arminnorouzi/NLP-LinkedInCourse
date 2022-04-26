@@ -2,8 +2,7 @@
    
    - **Armin Norouzi**
    - Part of [NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training?trk=course_title&upsellOrderOrigin=default_guest_learning)
-   - Compatible with Google Colaboratory- TF version 2.8.0
-
+   - Compatible with Google Colaboratory
    
 **Objective:** 
 - Definition of an NLP
